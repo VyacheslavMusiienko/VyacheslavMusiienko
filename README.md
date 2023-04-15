@@ -27,7 +27,7 @@ ___
  <div id="badges">
     <a href="https://www.linkedin.com/in/viacheslav-musiienko" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" alt="linkedin" /></a>
-    <a href="https://t.me/tehnomaniak07" target="_blank">
+    <a href="https://t.me/ViachslavMusiienko" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="40" height="40" alt="telegram group" /></a>
    <a href="mailto:chuvachok98@gmail.com" target="_blank">
       <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="telegram group" /></a>
