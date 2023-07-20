@@ -1,4 +1,4 @@
-##  Hi there 👋, my name is Viacheslav.
+##  Hi there 👋, my name is Vyacheslav.
 
 #### 🙍‍♂️ About me
 
