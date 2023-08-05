@@ -14,6 +14,8 @@ ___
 		<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"  alt="css3"  width="40"  height="40"/></a>
 <a href="https://sass-lang.com"  target="_blank"  rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"  alt="sass"  width="40"  height="40"/></a>
+<a href="https://styled-components.com/"  target="_blank"  rel="noreferrer">
+<img src="https://github.com/wappalyzer/wappalyzer/blob/master/src/drivers/webextension/images/icons/styled-components.svg"  alt="styled-components"  width="40"  height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="javascript"  width="40"  height="40"/></a>
 <a href="https://www.typescriptlang.org/"  target="_blank"  rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  alt="typescript"  width="40"  height="40"/>
