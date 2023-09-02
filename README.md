@@ -22,6 +22,12 @@ ___
 </a>
 <a href="https://reactjs.org/"  target="_blank"  rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"  alt="react"  width="40"  height="40"/></a>
+<a href="https://nodejs.org/en"  target="_blank"  rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"  alt="react"  width="40"  height="40"/></a>
+<a href="https://nestjs.com/"  target="_blank"  rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"  alt="react"  width="40"  height="40"/></a>
+<a href="https://www.docker.com/"  target="_blank"  rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"  alt="react"  width="40"  height="40"/></a>
 </div>
 
 ---
